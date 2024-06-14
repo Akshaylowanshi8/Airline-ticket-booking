@@ -1,0 +1,10 @@
+ 
+
+    
+
+
+    { "airline": "IndiGo", "departure": "Bhopal", "destination": "delhi", "departureTime": "9:00 AM", "arrivalTime": "11:00 AM", "price": "3000" }
+    { "airline": "Air India", "departure": "Bhopal", "destination": "jabalpur", "departureTime": "10:00 AM", "arrivalTime": "2:00 PM", "price": "2500" }
+    { "airline": "SpiceJet", "departure": "Bhopal", "destination": "indore", "departureTime": "9:50 AM", "arrivalTime": "11:00 AM", "price": "2000" }
+    { "airline": "IndiGo", "departure": "Bhopal", "destination": "Mumbai", "departureTime": "10:30 AM", "arrivalTime": "12:00 PM", "price": "4500" }
+   
